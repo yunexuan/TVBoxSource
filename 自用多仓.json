@@ -5,10 +5,6 @@
             "sourceUrl": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/cangkulist/自用单仓.json"
         },
         {
-            "sourceName": "日后精选单仓",
-            "sourceUrl": "http://rihou.cc:66/多仓/0.php"
-        },
-        {
             "sourceName": "自用直播多仓",
             "sourceUrl": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/cangkulist/自用直播仓库.json"
         },
