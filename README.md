@@ -1,3 +1,7 @@
+# 自用多仓
+
+https://raw.githubusercontent.com/felixiao/TVBoxSource/main/自用多仓.json
+
 # 使用Replit部署LiveRedirect项目
 
 PHP地址：https://php.61073736.repl.co/***.php?id={channel}
@@ -42,46 +46,6 @@ TVBox 配置文件。所有资源均来自于各路大神无私分享，如有�
 
 （8）zyplayer.json 网络收集的用于 ZYPlayer PC端的配置文件。
 
-
-# 1、给英文不好的朋友
-
-GitHub 中文化插件 🔰https://greasyfork.org/zh-CN/scripts/435208
-
-Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
-
-# 2、Github RAW 加速服务
-
-源码 https://gitcdn.top/https://github.com/用户名/仓库名/raw/main/接口文件
-
-香港 https://raw.iqiq.io/用户名/仓库名/main/接口文件
-
-新加坡 https://raw.kgithub.com/用户名/仓库名/main/接口文件
-
-日本
-
-https://fastly.jsdelivr.net/gh/用户名/仓库名@main/接口文件
-
-https://cdn.staticaly.com/gh/用户名/仓库名/main/接口文件
-
-https://raw.fastgit.org/用户名/仓库名/main/接口文件
-
-韩国
-
-https://ghproxy.com/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
-
-https://ghproxy.net/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
-
-https://gcore.jsdelivr.net/gh/用户名/仓库名@main/接口文件
-
-https://raw.githubusercontents.com/用户名/仓库名/main/接口文件
-
-# 3，Github 静态加速
-
-https://cdn.staticaly.com/gh/用户名/仓库名/main/接口文件
-
-https://cdn.jsdelivr.net/gh/用户名/仓库名@main/接口文件
-
-https://purge.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
 # 4、EGP源
 
@@ -141,27 +105,6 @@ https://agit.ai/
 
 https://notabug.org/
 
-# 6、短地址平台
-
-（1）https://short.io
-
-（2）http://88d.cn
-
-（3）https://77url.com
-
-（4）https://suowo.cn
-
-（5）https://6du.in
-
-（6）https://www.urlc.cn
-
-（7）https://59z.cn
-
-（8）https://suowo.cn
-
-（9）https://0a.fit/
-
-（10）https://www.urlc.cn/
 
 # 7、TVBox各路大佬配置（排名不分先后）：
 
@@ -189,7 +132,7 @@ https://notabug.org/
 
 （12）潇洒：https://download.kstore.space/download/2863/01.txt
 
-（13）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
+（13）佰欣园：https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
 
 （14）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
 
@@ -237,8 +180,3 @@ https://notabug.org/
 
 （11）https://pictures.catvod.eu.org/
 
-# 9、工具
-
-（1）文本处理： http://www.txttool.com/
-
-本页面只是收集Box，自用请勿宣传。
