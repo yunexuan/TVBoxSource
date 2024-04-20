@@ -1,19 +1,10 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713520700942/fan.txt;md5;95301864c68c473ff5ae1ba8cfbc61e2",
+    "spider": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/jar/东2/fan.jar;md5;95301864c68c473ff5ae1ba8cfbc61e2",
     "lives": [
         {
             "name": "Auto",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/Guovin/TV/master/result.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "—米—",
-            "type": 0,
-            "url": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/xmzb.txt",
+            "url": "https://raw.githubusercontent.com/Guovin/TV/master/result.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -32,24 +23,6 @@
             "name": "—玉—",
             "type": 0,
             "url": "http://124.223.177.85:88/svip/直播挺快.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "—分—",
-            "type": 0,
-            "url": "https://agit.ai/66666/mao/raw/branch/master/live20220813.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "饭太硬•综合",
-            "type": 0,
-            "url": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",

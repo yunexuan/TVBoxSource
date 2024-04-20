@@ -1,5 +1,5 @@
 {
-    "spider": "./巧儿/spider.jar",
+    "spider": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/jar/巧儿/spider.jar",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "lives": [
         {
