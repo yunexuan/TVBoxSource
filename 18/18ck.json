@@ -1,6 +1,22 @@
 {
     "urls": [
         {
+            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/Huhujun线路.json",
+            "name": "01 Huhujun线路"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/18-01.json",
+            "name": "02 18-01"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/18-02.json",
+            "name": "03 18-02"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/18-03.json",
+            "name": "04 18-03"
+        },
+        {
             "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
             "name": "二哈18+"
         },
@@ -19,18 +35,6 @@
         {
             "url": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
             "name": "扛把子线路"
-        },
-        {
-            "url": "https://huhujunxx.neocities.org/AV.json",
-            "name": "Huhujun线路"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/18-01.json",
-            "name": "18-01"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/18-02.json",
-            "name": "18-02"
         }
     ]
 }
