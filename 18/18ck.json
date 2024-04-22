@@ -5,19 +5,11 @@
             "name": "01 Huhujun线路"
         },
         {
-            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/18-01.json",
-            "name": "02 18-01"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/18-02.json",
-            "name": "03 18-02"
-        },
-        {
             "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/18-03.json",
-            "name": "04 18-03"
+            "name": "02 18-03"
         },
         {
-            "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
+            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/二哈18+.json",
             "name": "二哈18+"
         },
         {
