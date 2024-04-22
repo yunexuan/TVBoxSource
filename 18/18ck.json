@@ -17,12 +17,24 @@
             "name": "04 蜂蜜在线"
         },
         {
-            "url": "https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/se.json",
+            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/星云线路.json",
             "name": "星云线路"
         },
         {
-            "url": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
+            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/扛把子线路.json",
             "name": "扛把子线路"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/浮力yyfxz1.json",
+            "name": "♊浮力yyfxz1[18+]"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/浮力yyfxz2.json",
+            "name": "♋浮力yyfxz2[18+]"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/浮力yyfxz3.json",
+            "name": "♌浮力yyfxz3[18+]"
         }
     ]
 }

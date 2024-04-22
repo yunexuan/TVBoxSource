@@ -251,26 +251,6 @@
         {
             "name": "💦巧技",
             "url": "http://pandown.pro/tvbox/tvbox.json"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/源/星云线路.json",
-            "name": "⛅星云线路[18+]"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/源/Huhujun线路.json",
-            "name": "♠️Huhujun线路[18+]"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/源/浮力yyfxz1.json",
-            "name": "♊浮力yyfxz1[18+]"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/源/浮力yyfxz2.json",
-            "name": "♋浮力yyfxz2[18+]"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/源/浮力yyfxz3.json",
-            "name": "♌浮力yyfxz3[18+]"
         }
     ]
 }
