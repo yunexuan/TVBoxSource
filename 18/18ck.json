@@ -1,12 +1,12 @@
 {
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/Huhujun线路.json",
-            "name": "01 Huhujun线路"
+            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/18.json",
+            "name": "01 18"
         },
         {
-            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/18-03.json",
-            "name": "02 18-03"
+            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/Huhujun线路.json",
+            "name": "02 Huhujun线路"
         },
         {
             "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/二哈18+.json",
