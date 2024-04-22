@@ -14,15 +14,11 @@
         },
         {
             "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/蜂蜜在线.json",
-            "name": "蜂蜜在线"
+            "name": "04 蜂蜜在线"
         },
         {
             "url": "https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/se.json",
             "name": "星云线路"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/site2.json",
-            "name": "m3u8play路线"
         },
         {
             "url": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
