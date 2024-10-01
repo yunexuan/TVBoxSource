@@ -1,10 +1,10 @@
 {
-    "spider": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/jar/东2/fan.jar;md5;95301864c68c473ff5ae1ba8cfbc61e2",
+    "spider": "https://cdn.githubraw.com/felixiao/TVBoxSource/main/jar/东2/fan.jar;md5;95301864c68c473ff5ae1ba8cfbc61e2",
     "lives": [
         {
             "name": "Auto",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/Guovin/TV/master/result.txt",
+            "url": "https://cdn.githubraw.com/Guovin/TV/master/result.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -13,7 +13,7 @@
         {
             "name": "—欧—",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/Guovin/TV/master/result.txt",
+            "url": "https://cdn.githubraw.com/Guovin/TV/master/result.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -133,7 +133,7 @@
             "name": "子子┃[js]",
             "type": 3,
             "api": "./JS/lib/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"
+            "ext": "https://ghproxy.net/https://cdn.githubraw.com/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"
         },
         {
             "key": "csp_XYQHiker_‍dyx",

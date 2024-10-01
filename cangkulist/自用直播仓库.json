@@ -2,11 +2,11 @@
     "urls": [
         {
             "name": "自用晴天",
-            "url": "https://raw.githubusercontent.com/mengzehe/tvbox/main/自用直播晴天源"
+            "url": "https://cdn.githubraw.com/mengzehe/tvbox/main/自用直播晴天源"
         },
         {
             "name": "自用收集",
-            "url": "https://raw.githubusercontent.com/mengzehe/tvbox/main/自用直播"
+            "url": "https://cdn.githubraw.com/mengzehe/tvbox/main/自用直播"
         },
         {
             "name": "俊于",
@@ -22,15 +22,15 @@
         },
         {
             "name": "自用源",
-            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/直播源/自用源.json"
+            "url": "https://cdn.githubraw.com/felixiao/TVBoxSource/main/直播源/自用源.json"
         },
         {
             "name": "yyfx",
-            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/直播源/yyfx.json"
+            "url": "https://cdn.githubraw.com/felixiao/TVBoxSource/main/直播源/yyfx.json"
         },
         {
             "name": "zyplayer",
-            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/直播源/zyplayer.json"
+            "url": "https://cdn.githubraw.com/felixiao/TVBoxSource/main/直播源/zyplayer.json"
         }
     ]
 }
